@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Viswanadha-Aditya
-- 👀 I’m interested in Python programming and Robotics
-- 🌱 I’m currently learning ROS 
-- 💞️ I’m looking to collaborate on Python automations
-- 📫 You can reach me through email @viswanadha.adityag@gmail.com
+- 👀 I’m interested in Python programming and Quant Finance
 
 <!---
 Viswanadha-Aditya/Viswanadha-Aditya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
